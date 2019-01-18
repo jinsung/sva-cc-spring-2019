@@ -26,7 +26,7 @@
 ### Week 1 -- Introduction
   * What is computer programming and why?
   * Reference works
-    * [John Maeda Design](https://www.google.com/search?q=john+maeda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjdlPai1b_RAhUs7oMKHXA_A7UQ_AUICSgC&biw=1167&bih=888#tbm=isch&q=john+maeda+graphic+design&imgrc=PhLxs7TrTqQ07M%3A)
+    * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
     * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
   * About me.
