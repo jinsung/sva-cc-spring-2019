@@ -37,7 +37,25 @@
   * Course Intro
     * Overview / Syllabus
 
-### Week 2 -- Tools and Basic Concept
+### Week 2 -- Shape / Variables
+  * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
+  * [Step-by-step approach](https://www.youtube.com/watch?v=cDA3_5982h8)
+  * Programming languages
+    * Low-level / high-level languages
+    * Interpreted language
+    * Client / Server side languages
+  * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+  * [Editor](https://editor.p5js.org/)
+  * Canvas, Pixels and Color
+    * Coordinate system
+    * draw mode & color mode
+    * RGBA vs HSBA
+  * [Shapes](https://editor.p5js.org/jinsng/sketches/2Zf_Kuhw5)
+  * [Setup / Draw Functions](https://editor.p5js.org/jinsng/sketches/nbKQODiF8)
+  * [Variable](https://editor.p5js.org/jinsng/sketches/LnK1fCGxG)
+  * [Mouse Position](https://editor.p5js.org/jinsng/sketches/6sEwURA2z)
+  * [No Background](https://editor.p5js.org/jinsng/sketches/V6u5fiLJq)
+  * [Line Drawing](https://editor.p5js.org/jinsng/sketches/-WTijUk-3)
 
 ### Week 3 -- Bouncing Ball!
 
