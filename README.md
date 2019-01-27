@@ -58,6 +58,13 @@
   * [Line Drawing](https://editor.p5js.org/jinsng/sketches/-WTijUk-3)
 
 ### Week 3 -- Bouncing Ball!
+ * [Variables](https://editor.p5js.org/jinsng/sketches/LnK1fCGxG)
+  * Built-in or User-defined
+  * Declare, Initialize, and Use
+  * Type of the variable (Number, String, Boolean)
+  * Scope
+ * [Boolean Operation](https://editor.p5js.org/jinsng/sketches/HYDqGeOFv)
+ * [Random](https://editor.p5js.org/jinsng/sketches/OWSOiteWJ)
 
 ### Week 4 -- Loop
 
