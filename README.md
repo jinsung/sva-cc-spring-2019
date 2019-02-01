@@ -58,13 +58,20 @@
   * [Line Drawing](https://editor.p5js.org/jinsng/sketches/-WTijUk-3)
 
 ### Week 3 -- Bouncing Ball!
+ * Yumi!
+ * Casey Reas
+    * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * [Variables](https://editor.p5js.org/jinsng/sketches/LnK1fCGxG)
   * Built-in or User-defined
   * Declare, Initialize, and Use
   * Type of the variable (Number, String, Boolean)
   * Scope
+ * Debug
+  * console.log
+  * Javascript Debugger
  * [Boolean Operation](https://editor.p5js.org/jinsng/sketches/HYDqGeOFv)
  * [Random](https://editor.p5js.org/jinsng/sketches/OWSOiteWJ)
+ * [Easing](https://editor.p5js.org/jinsng/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
 
