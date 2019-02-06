@@ -74,10 +74,13 @@
  * [Easing](https://editor.p5js.org/jinsng/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
+ * [Conditions](https://editor.p5js.org/jinsng/sketches/kq1Cszsja)
+ * [While Loop](https://editor.p5js.org/jinsng/sketches/MJ1oqNRBH)
+ * [For Loop](https://editor.p5js.org/jinsng/sketches/5Ck8nwtLc)
 
 ### Week 5 -- Nested Loop / Functions
 
-### Week 6 -- Clock
+### Week 6 -- Clock - Assignment 1 due date
 
 ### Week 7 -- Object
 
@@ -85,7 +88,7 @@
 
 ### Week 9 -- Array 2 / 2D Transform
 
-### Week 10 -- Image
+### Week 10 -- Image - Assignment 2 due date
 
 ### Week 11 -- Text
 
