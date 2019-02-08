@@ -62,21 +62,26 @@
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * [Variables](https://editor.p5js.org/jinsng/sketches/LnK1fCGxG)
-  * Built-in or User-defined
-  * Declare, Initialize, and Use
-  * Type of the variable (Number, String, Boolean)
-  * Scope
+    * Built-in or User-defined
+    * Declare, Initialize, and Use
+    * Type of the variable (Number, String, Boolean)
+    * Scope
  * Debug
-  * console.log
-  * Javascript Debugger
+    * console.log
+    * Javascript Debugger
  * [Boolean Operation](https://editor.p5js.org/jinsng/sketches/HYDqGeOFv)
  * [Random](https://editor.p5js.org/jinsng/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsng/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
+ * Marco Tempest
+    * [Ted talk 2011](https://www.ted.com/talks/marco_tempest_a_cyber_magic_card_trick_like_no_other?language=en#t-373758)
+    * [Ted talk 2012](https://www.ted.com/talks/marco_tempest_a_cyber_magic_card_trick_like_no_other?language=en#t-373758)
  * [Conditions](https://editor.p5js.org/jinsng/sketches/kq1Cszsja)
- * [While Loop](https://editor.p5js.org/jinsng/sketches/MJ1oqNRBH)
- * [For Loop](https://editor.p5js.org/jinsng/sketches/5Ck8nwtLc)
+ * [While Loop 1](https://editor.p5js.org/jinsng/sketches/p_11LXsvK)
+ * [While Loop 2](https://editor.p5js.org/jinsng/sketches/MJ1oqNRBH)
+ * [For Loop 1](https://editor.p5js.org/jinsng/sketches/5Ck8nwtLc)
+ * [For Loop 2](https://editor.p5js.org/jinsng/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop / Functions
 
