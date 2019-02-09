@@ -86,6 +86,10 @@
 ### Week 5 -- Nested Loop / Functions
 
 ### Week 6 -- Clock - Assignment 1 due date
+ * Assigment #1
+    1. Create an animation that interacts with the mouse or keyboard.
+    2. Make and use variables.
+    3. Use "For Loop" to draw many shapes.
 
 ### Week 7 -- Object
 
