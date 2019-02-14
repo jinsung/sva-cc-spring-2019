@@ -84,6 +84,18 @@
  * [For Loop 2](https://editor.p5js.org/jinsng/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop / Functions
+ * Zach Lieberman
+    * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
+    * [IQ Font](https://vimeo.com/5233789)
+    * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
+    * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+ * [For Loop Again](https://editor.p5js.org/jinsng/sketches/oIg2GKphj)
+ * [Nested For Loop](https://editor.p5js.org/jinsng/sketches/u5kQQvSQf)
+ * [Nested For Loop](https://editor.p5js.org/jinsng/sketches/BUhPCkQM_)
+ * [2D Transformation](https://editor.p5js.org/jinsng/sketches/fuV9qy_iZ)
+    * Radians & Degrees
+    * Translate / Rotate / Scale
+    * Push / Pop
 
 ### Week 6 -- Clock - Assignment 1 due date
  * Assigment #1
