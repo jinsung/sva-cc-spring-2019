@@ -83,7 +83,7 @@
  * [For Loop 1](https://editor.p5js.org/jinsng/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsng/sketches/_ePNjW-0h)
 
-### Week 5 -- Nested Loop / Functions
+### Week 5 -- Nested Loop
  * Zach Lieberman
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
@@ -92,16 +92,20 @@
  * [For Loop Again](https://editor.p5js.org/jinsng/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsng/sketches/u5kQQvSQf)
  * [Nested For Loop](https://editor.p5js.org/jinsng/sketches/BUhPCkQM_)
- * [2D Transformation](https://editor.p5js.org/jinsng/sketches/fuV9qy_iZ)
-    * Radians & Degrees
-    * Translate / Rotate / Scale
-    * Push / Pop
 
-### Week 6 -- Clock - Assignment 1 due date
+### Week 6 -- 2D Transformation / Function / Clocks - Assignment 1 due date
  * Assigment #1
     1. Create an animation that interacts with the mouse or keyboard.
     2. Make and use variables.
     3. Use "For Loop" to draw many shapes.
+ * [2D Transformation](https://editor.p5js.org/jinsng/sketches/fuV9qy_iZ)
+    * Radians & Degrees
+    * Translate / Rotate / Scale
+    * Push / Pop
+ * Function
+    * [Modularity](https://editor.p5js.org/jinsng/sketches/l7Uf-zbeO)
+    * [Reusability](https://editor.p5js.org/jinsng/sketches/HAyYTZWG7)
+ * [Clock](https://editor.p5js.org/jinsng/sketches/6zSA6_ZeW)
 
 ### Week 7 -- Object
 
