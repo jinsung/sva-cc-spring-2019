@@ -116,7 +116,7 @@
 
 ### Week 8 -- Array
 
-### Week 9 -- Array 2 / 2D Transform
+### Week 9 -- Array 2
 
 ### Week 10 -- Image - Assignment 2 due date
 
