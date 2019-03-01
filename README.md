@@ -110,10 +110,12 @@
  * Function
     * [Modularity](https://editor.p5js.org/jinsng/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsng/sketches/HAyYTZWG7)
- * [Clock](https://editor.p5js.org/jinsng/sketches/6zSA6_ZeW)
-
+ 
 ### Week 7 -- Object
-
+ * [three.js](https://threejs.org/)
+ * [Clock](https://editor.p5js.org/jinsng/sketches/6zSA6_ZeW)
+ * [Object](https://editor.p5js.org/jinsng/sketches/KtVF8apBV)
+ 
 ### Week 8 -- Array
 
 ### Week 9 -- Array 2
