@@ -116,6 +116,7 @@
  * [Clock](https://editor.p5js.org/jinsng/sketches/6zSA6_ZeW)
  * [Clock2](https://editor.p5js.org/jinsng/sketches/CM_7_WPrB)
  * [Object](https://editor.p5js.org/jinsng/sketches/KtVF8apBV)
+ * [Object2](https://editor.p5js.org/jinsng/sketches/xKneEnFnW)
  
 ### Week 8 -- Array
 
