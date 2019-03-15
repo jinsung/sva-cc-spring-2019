@@ -50,18 +50,18 @@
     * Coordinate system
     * draw mode & color mode
     * RGBA vs HSBA
-  * [Shapes](https://editor.p5js.org/jinsng/sketches/2Zf_Kuhw5)
-  * [Setup / Draw Functions](https://editor.p5js.org/jinsng/sketches/nbKQODiF8)
-  * [Variable](https://editor.p5js.org/jinsng/sketches/LnK1fCGxG)
-  * [Mouse Position](https://editor.p5js.org/jinsng/sketches/6sEwURA2z)
-  * [No Background](https://editor.p5js.org/jinsng/sketches/V6u5fiLJq)
-  * [Line Drawing](https://editor.p5js.org/jinsng/sketches/-WTijUk-3)
+  * [Shapes](https://editor.p5js.org/jinsung/sketches/2Zf_Kuhw5)
+  * [Setup / Draw Functions](https://editor.p5js.org/jinsung/sketches/nbKQODiF8)
+  * [Variable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
+  * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
+  * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
+  * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
 
 ### Week 3 -- Bouncing Ball!
  * Yumi!
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
- * [Variables](https://editor.p5js.org/jinsng/sketches/LnK1fCGxG)
+ * [Variables](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
     * Built-in or User-defined
     * Declare, Initialize, and Use
     * Type of the variable (Number, String, Boolean)
@@ -69,19 +69,19 @@
  * Debug
     * console.log
     * Javascript Debugger
- * [Boolean Operation](https://editor.p5js.org/jinsng/sketches/HYDqGeOFv)
- * [Random](https://editor.p5js.org/jinsng/sketches/OWSOiteWJ)
- * [Easing](https://editor.p5js.org/jinsng/sketches/UjXbU3Q8O)
+ * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
+ * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
+ * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
 
 ### Week 4 -- Loop
  * Marco Tempest
     * [Ted talk 2011](https://www.ted.com/talks/marco_tempest_a_cyber_magic_card_trick_like_no_other?language=en#t-373758)
     * [Ted talk 2012](https://www.ted.com/talks/marco_tempest_a_cyber_magic_card_trick_like_no_other?language=en#t-373758)
- * [Conditions](https://editor.p5js.org/jinsng/sketches/kq1Cszsja)
- * [While Loop 1](https://editor.p5js.org/jinsng/sketches/p_11LXsvK)
- * [While Loop 2](https://editor.p5js.org/jinsng/sketches/MJ1oqNRBH)
- * [For Loop 1](https://editor.p5js.org/jinsng/sketches/5Ck8nwtLc)
- * [For Loop 2](https://editor.p5js.org/jinsng/sketches/_ePNjW-0h)
+ * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
+ * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
+ * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
+ * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
+ * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
  * Zach Lieberman
@@ -89,9 +89,9 @@
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * [For Loop Again](https://editor.p5js.org/jinsng/sketches/oIg2GKphj)
- * [Nested For Loop](https://editor.p5js.org/jinsng/sketches/u5kQQvSQf)
- * [Nested For Loop](https://editor.p5js.org/jinsng/sketches/BUhPCkQM_)
+ * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
 ### Week 6 -- 2D Transformation / Function / Clocks - Assignment 1 due date
  * Assigment #1
@@ -103,24 +103,24 @@
     * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
     * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
     * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
- * [2D Transformation](https://editor.p5js.org/jinsng/sketches/fuV9qy_iZ)
+ * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Radians & Degrees
     * Translate / Rotate / Scale
     * Push / Pop
  * Function
-    * [Modularity](https://editor.p5js.org/jinsng/sketches/l7Uf-zbeO)
-    * [Reusability](https://editor.p5js.org/jinsng/sketches/HAyYTZWG7)
+    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
+    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  
 ### Week 7 -- Object
  * [three.js](https://threejs.org/)
- * [Clock](https://editor.p5js.org/jinsng/sketches/6zSA6_ZeW)
- * [Clock2](https://editor.p5js.org/jinsng/sketches/CM_7_WPrB)
- * [Object](https://editor.p5js.org/jinsng/sketches/KtVF8apBV)
+ * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
+ * [Clock2](https://editor.p5js.org/jinsung/sketches/CM_7_WPrB)
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  
 ### Week 8 -- Array
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
- * [Object](https://editor.p5js.org/jinsng/sketches/KtVF8apBV)
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
 
 ### Week 9 -- Array 2
