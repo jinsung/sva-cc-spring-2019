@@ -118,6 +118,7 @@
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  
 ### Week 8 -- Array
+ * [DIA Studio](https://www.instagram.com/dia_studio/)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
