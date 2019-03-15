@@ -122,6 +122,7 @@
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+ * [Moving Characters](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
 
 ### Week 9 -- Array 2
 
