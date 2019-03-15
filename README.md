@@ -122,9 +122,12 @@
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
- * [Moving Characters](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
+ * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
 
 ### Week 9 -- Array 2
+ * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
+ * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+ * [ASCII Animation](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
 
 ### Week 10 -- Image - Assignment 2 due date
 
