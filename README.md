@@ -126,9 +126,15 @@
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
 
 ### Week 9 -- Array 2
+ * [Facebook Spark AR Studio](https://www.sparkar.com/ar-studio/learn)
+ * [Snap Lens Studio](https://lensstudio.snapchat.com/)
+ * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
+ * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
+ * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/e-Yid3Z-V)
+ * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
- * [ASCII Animation](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
+ 
 
 ### Week 10 -- Image - Assignment 2 due date
 
