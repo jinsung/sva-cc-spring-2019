@@ -131,18 +131,20 @@
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/e-Yid3Z-V)
+
+### Week 10 -- Image - Assignment 2 due date
  * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
- 
+ * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
+ * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
+ * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
 
-### Week 10 -- Image - Assignment 2 due date
+### Week 11 -- Vector and Force
 
-### Week 11 -- Text
+### Week 12 -- Particle System 1
 
-### Week 12 -- Vector and Force
-
-### Week 13 -- Particle System
+### Week 13 -- Particle System 2
 
 ### Week 14 -- 1:1 Meeting
 
