@@ -130,7 +130,7 @@
  * [Snap Lens Studio](https://lensstudio.snapchat.com/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
- * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/e-Yid3Z-V)
+ * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
 
 ### Week 10 -- Image - Assignment 2 due date
  * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
