@@ -132,16 +132,16 @@
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
 
-### Week 10 -- Image - Assignment 2 due date
+### Week 10 -- Objects in Array - Assignment 2 due date
  * [Letter Anim WIP)(https://editor.p5js.org/jinsung/sketches/e0AmPiTrG)
  * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+
+### Week 11 -- Image
  * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
-
-### Week 11 -- Vector and Force
 
 ### Week 12 -- Particle System 1
 
