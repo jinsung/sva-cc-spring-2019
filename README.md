@@ -143,9 +143,9 @@
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
 
-### Week 12 -- Particle System 1
+### Week 12 -- Vector / Force
 
-### Week 13 -- Particle System 2
+### Week 13 -- Particle System
 
 ### Week 14 -- 1:1 Meeting
 
