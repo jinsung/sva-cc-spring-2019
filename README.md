@@ -146,6 +146,9 @@
 ### Week 12 -- Vector / Force
 
 ### Week 13 -- Particle System
+ * [Particle System](https://editor.p5js.org/jinsung/sketches/vX1TQpvef)
+ * [Particle System with some space](https://editor.p5js.org/jinsung/sketches/YnxTVsj5q)
+ * [Particle System with Pixel Data](https://editor.p5js.org/jinsung/sketches/FsMR0m35S)
 
 ### Week 14 -- 1:1 Meeting
 
